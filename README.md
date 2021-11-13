@@ -2,7 +2,7 @@
 - 👀 I’m interested in bikes, games, food
 - 🌱 I’m currently learning HTML5, CSS, JS, React, TypeScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @kenich1 - Telegramm
 
 <!---
 kenich1/kenich1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
